@@ -1,4 +1,6 @@
 # STEM Fair 2023 California
 
-Arduino code for STEM Fair 2023 Project for Peter Hansen Elementary School Mountain House CA.
+// Drop Diverter Arduino code. 
+STEM Fair 2023 Project 
+Peter Hansen Elementary School Mountain House CA.
 
